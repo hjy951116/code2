@@ -1,0 +1,63 @@
+% Encoding: UTF-8
+
+@InProceedings{8600429,
+  author    = {Y. {Wang} and Q. {Huang} and J. {Hu}},
+  title     = {Adaptive Enhancement for non-uniform illumination Images via Pixel-wise Histogram Modification and Color Reconstruction},
+  booktitle = {2018 IEEE 3rd International Conference on Signal and Image Processing (ICSIP)},
+  year      = {2018},
+  month     = {July},
+  pages     = {220-224},
+  doi       = {10.1109/SIPROCESS.2018.8600429},
+  keywords  = {adaptive signal processing;brightness;image colour analysis;image enhancement;image reconstruction;overexposure regions;luminance channel;nonlinear modification;global histogram;color construction technique;color compensation;local contrast;local comparison-dependent technique;underexposure regions;globally overexposed images;smooth uniform areas;adaptive enhancement;nonuniform illumination images;pixelwise demarcation;pixelwise histogram modification;color image reconstruction;modified luminance;original chromatic information;Image color analysis;Histograms;Image reconstruction;Color;Dynamic range;Lighting;Image coding;non-uniform illumination;globally overexposed;histogram modification;color reconstruction},
+}
+
+@InProceedings{7064155,
+  author    = {Y. {Wang} and B. {Hu}},
+  title     = {A More Efficient Face Recognition Framework Based on Illumination Compensation, Kernel PCA and SVM},
+  booktitle = {2014 Seventh International Symposium on Computational Intelligence and Design},
+  year      = {2014},
+  volume    = {1},
+  month     = {Dec},
+  pages     = {124-129},
+  doi       = {10.1109/ISCID.2014.136},
+  keywords  = {discrete cosine transforms;face recognition;feature extraction;principal component analysis;support vector machines;kernel principle component analysis;support vector machine;FERET database;extended Yale B database;feature extraction;DCT coefficients;local contrast stretching;CLAHE;contrast limiting adaptive histogram equalization;low frequency discrete cosine transform coefficients;kernel PCA;SVM;illumination compensation;efficient face recognition framework;Lighting;Face;Face recognition;Feature extraction;Discrete cosine transforms;Databases;Kernel;Adaptive histogram equalization;Discrete cosine;Coefficients retransforming;Kernel principal component analysis},
+}
+
+@InProceedings{6182487,
+  author    = {{Hua Zhang} and {Ruimin Hu} and {Lin Song}},
+  title     = {A shot boundary detection method based on color feature},
+  booktitle = {Proceedings of 2011 International Conference on Computer Science and Network Technology},
+  year      = {2011},
+  volume    = {4},
+  month     = {Dec},
+  pages     = {2541-2544},
+  doi       = {10.1109/ICCSNT.2011.6182487},
+  keywords  = {content-based retrieval;feature extraction;image colour analysis;indexing;video retrieval;shot boundary detection method;color feature;video content analysis;content-based indexing;content-based retrieval;color histogram difference analysis;adaptive threshold;sliding window;Software;shot boundary detection;adaptive threshold;color histogram;histogram difference},
+}
+
+@InProceedings{7761522,
+  author    = {K. {Swami} and G. {Khandelwal} and A. {Vijayvargiya} and K. {Sekhri}},
+  title     = {A new method of flash image shadow detection and patch-based correction of shadow regions},
+  booktitle = {2015 International Conference on Image and Vision Computing New Zealand (IVCNZ)},
+  year      = {2015},
+  month     = {Nov},
+  pages     = {1-6},
+  doi       = {10.1109/IVCNZ.2015.7761522},
+  issn      = {2151-2205},
+  keywords  = {computer vision;flash lamps;image capture;image denoising;image enhancement;flash image shadow detection;shadow region patch-based correction;image capturing;noise-free image;image visual appeal;removal algorithm;flash light;flash image enhancement;shadow detection algorithm;shadow recovery method;pixel-wise recovery method;Cameras;Detection algorithms;Lighting;Noise measurement;Image edge detection;Image registration;Electronic mail;Flash image shadow detection and removal;flash-no flash images;flash image enhancement;patch-based image recovery},
+}
+
+@Article{8672176,
+  author   = {M. {Haghighat} and R. {Mathew} and A. {Naman} and D. {Taubman}},
+  title    = {Illumination Estimation and Compensation of Low Frame Rate Video Sequences for Wavelet-Based Video Compression},
+  journal  = {IEEE Transactions on Image Processing},
+  year     = {2019},
+  volume   = {28},
+  number   = {9},
+  month    = {Sep.},
+  pages    = {4313-4327},
+  doi      = {10.1109/TIP.2019.2905756},
+  keywords = {data compression;image resolution;image sequences;image texture;lighting;rate distortion theory;video coding;wavelet transforms;illumination estimation;illumination compensation;low frame rate video sequences;wavelet-based video compression;frames sparse representation;illumination variation;contrast ratio factors;resolution multiplicative field;lifting-based illumination adaptive transform framework;temporal wavelet transforms;spatial sparsity;rate-distortion framework;affine mesh model;operational coding cost;JPEG 2000 coding tools;Lighting;Image coding;Adaptation models;Video coding;Wavelet transforms;Optimization;Wavelet-based compression;Illumination estimation;R-D optimization;Scalable video coding},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

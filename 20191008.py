@@ -48,6 +48,7 @@ for frames in glob.glob('./test/*.jpg'):
   gray_levels = 256
   gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  
   hist = numpy.histogram(Y,bins=gray_levels)
+  cv2.imwrite('%.1d-gray.jpg'%count,gray)
   
   # print(hist)
   im = Image.open(frames)
